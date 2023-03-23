@@ -1,3 +1,11 @@
+# MCL App
+
+<img width="924" alt="image" src="https://user-images.githubusercontent.com/105687297/227189158-4e1ed765-fbd6-4916-9a67-9b1131e62d84.png">
+
+<img width="932" alt="image" src="https://user-images.githubusercontent.com/105687297/227189332-bd86cabd-73cf-434c-afa9-617b9ce237cc.png">
+
+## Built in Typescript utilizing Firebase for user authntication with like/post management.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
